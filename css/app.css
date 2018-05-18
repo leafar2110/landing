@@ -45,6 +45,7 @@ body{
 	
 }
 .titulo h3{
+	font-weight: 100;
 	margin: 60px 60px 70px 60px;
 	color: #ffffffcf;
 
@@ -72,7 +73,7 @@ body{
 	margin: 75px 10px 0px 10px;
 }
 .about h4{
-
+	font-weight: 100;
 	font-size: 25px;
 	margin: 1px 0 22px 0;
 	color: #3838386b;
@@ -98,6 +99,7 @@ body{
 	 padding: 78px 1px 1px 34px;
 }
 .services h4{
+	font-weight: 100;
 	color: #3838386b;
 	margin-top: -47px;
 	font-size: 25px;
@@ -151,6 +153,7 @@ font-size: 31px;
 	margin: 4px;
 }
 .portfolio h3{
+	font-weight: 100;
 	margin-top: -45px;
 	margin-bottom: 100px;
 	font-size: 23px;
@@ -170,6 +173,7 @@ font-size: 31px;
 	font-size: 60px;
 }
 .team h4{
+	font-weight: 100;
 	margin-top: -45px;
 	margin-bottom: 100px;
 	font-size: 23px;
@@ -233,6 +237,7 @@ font-size: 31px;
 	color: #383838;
 }
 .contact h3{
+	font-weight: 100;
 	text-align: center;
 	color: #3838386b;
 	margin-top: -22px;
