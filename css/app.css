@@ -265,7 +265,7 @@ textarea{
 	font-size: 18px;
 	border-radius: 7px;
 	padding: 18px 38px 18px 38px;
-	color: #ffffffcf;
+	color: white;
 	background: #24ad8d;
 	width: 278px;
 	float: right;
@@ -276,7 +276,7 @@ textarea{
 	.info a,p{
 
 		text-decoration: none;
-		color: #3838386b;
+		color: grey;
 	}
 	.footer{
 		margin-top: -17px;
